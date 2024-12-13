@@ -1,0 +1,20 @@
+# Ignore node_modules (for Node.js projects)
+node_modules/
+
+# Ignore compiled files
+*.o
+*.out
+*.class
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+
+# Ignore IDE-specific files (e.g., for VSCode)
+.vscode/
+
+# Ignore system-specific files (e.g., macOS)
+.DS_Store
